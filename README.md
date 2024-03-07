@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://lookerstudio.google.com/reporting/da5da0af-4be0-4f7d-a84b-f7c2892df612">
+  <a>
     <img src="https://github.com/luckygayathri/Azure-Databricks/assets/26520639/2577ce6b-a09b-4cf0-b0b9-7f3e656ad353" alt="Banner" width="720">
   </a>
 
